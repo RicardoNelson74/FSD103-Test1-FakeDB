@@ -1,0 +1,66 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.4rem;
+    text-align: center;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    margin-top: 200px;
+    background-color: grey;
+}
+
+h1
+{
+    padding-bottom: 50px;
+}
+
+main
+{
+    margin-bottom: 50px;
+}
+
+#with
+{
+    margin-right: 42px;
+}
+
+#depo
+{
+    margin-right: 42px;
+}
+
+button
+{
+    background-color: palevioletred;
+    border: none;
+    padding: 5px 10px;
+    
+
+}
+
+#withdrawbutton
+{
+    padding: 5px 20px;
+    margin-right: auto;
+    
+}
+
+#depositbutton
+{
+    padding: 5px 20px;
+    margin-right: auto;
+}
+
+input
+{
+    padding: 5px 80px;
+   
+    
+}
